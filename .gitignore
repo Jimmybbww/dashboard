@@ -1,0 +1,9 @@
+# 忽略所有檔案
+*
+
+# 但保留 index.html
+!index.html
+
+# 保留 git 相關檔案
+!.gitignore
+!.git/
